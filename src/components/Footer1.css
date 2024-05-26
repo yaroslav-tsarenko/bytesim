@@ -1,0 +1,274 @@
+.bytesim1 {
+  position: relative;
+  line-height: 19px;
+  display: inline-block;
+  min-width: 95px;
+}
+.bytesim-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 35.9px 0 0;
+}
+.db139ae3d9347288599d26937f0372-icon2,
+.mastersvg-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 5px;
+  width: 35px;
+  height: 22px;
+  overflow: hidden;
+}
+.mastersvg-icon1 {
+  top: 30px;
+  object-fit: cover;
+}
+.logo-rows {
+  height: 52px;
+  width: 35px;
+  position: relative;
+}
+.apple-paysvg-icon1,
+.paynowsvg-icon1 {
+  position: absolute;
+  left: 0;
+  border-radius: 5px;
+  width: 35px;
+  height: 22px;
+  overflow: hidden;
+}
+.apple-paysvg-icon1 {
+  top: 0;
+  object-fit: cover;
+}
+.paynowsvg-icon1 {
+  top: 30px;
+}
+.logo-rows1 {
+  height: 52px;
+  width: 35px;
+  position: relative;
+}
+.e2694400ff3043e19cd888bd045333-icon1,
+.paypalsvg-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 5px;
+  width: 35px;
+  height: 22px;
+  overflow: hidden;
+}
+.paypalsvg-icon1 {
+  top: 30px;
+  object-fit: cover;
+}
+.logo-rows2 {
+  height: 52px;
+  width: 35px;
+  position: relative;
+}
+.discoversvg-icon2,
+.samsung-paysvg-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 5px;
+  width: 35px;
+  height: 22px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.samsung-paysvg-icon1 {
+  top: 30px;
+}
+.logo-rows3 {
+  height: 52px;
+  width: 35px;
+  position: relative;
+}
+.d854878c8ba246f7a7f955c624ead4-icon1,
+.shopee-paysvg-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 5px;
+  width: 35px;
+  height: 22px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.shopee-paysvg-icon1 {
+  top: 30px;
+}
+.logo-rows4 {
+  height: 52px;
+  width: 35px;
+  position: relative;
+}
+.dc3ccc5c01043c581393fc034132a4-icon1,
+.google-paysvg-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 5px;
+  width: 35px;
+  height: 22px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.dc3ccc5c01043c581393fc034132a4-icon1 {
+  top: 30px;
+}
+.logo-rows5 {
+  height: 52px;
+  width: 35px;
+  position: relative;
+}
+.usd16 {
+  position: relative;
+  line-height: 18px;
+  display: inline-block;
+  min-width: 33px;
+}
+.svg-icon27 {
+  width: 10px;
+  height: 6px;
+  position: relative;
+}
+.border2,
+.currency-dropdown {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 5.5px 0 0;
+}
+.border2 {
+  width: 52.5px;
+  border-radius: 4px;
+  border: 1px solid rgba(204, 240, 233, 0.1);
+  box-sizing: border-box;
+  flex-direction: row;
+  padding: 4px 0;
+  gap: 7.5px;
+}
+.b9fac56bd43d6a869af9d6f806bd8-icon1 {
+  object-fit: contain;
+}
+.b9fac56bd43d6a869af9d6f806bd8-icon1,
+.df9757029c64cf6adcffdeb378e6f6-icon1,
+.jcbsvg-icon2,
+.maestrosvg-icon1,
+.visa-electronsvg-icon1,
+.visasvg-icon1 {
+  height: 22px;
+  width: 35px;
+  position: relative;
+  border-radius: 5px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.df9757029c64cf6adcffdeb378e6f6-icon1,
+.visa-electronsvg-icon1,
+.visasvg-icon1 {
+  object-fit: contain;
+}
+.card-logos1,
+.currency {
+  display: flex;
+  justify-content: flex-start;
+}
+.card-logos1 {
+  align-self: stretch;
+  height: 52px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 8px 6px;
+}
+.currency {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 10px;
+  min-width: 79px;
+}
+.copyright-info,
+.copyright1,
+.payment-logos1 {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.payment-logos1 {
+  width: 379px;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 8px;
+  text-align: center;
+  font-size: 11.4px;
+  color: #00b490;
+}
+.copyright-info,
+.copyright1 {
+  align-items: flex-start;
+}
+.copyright-info {
+  width: 1400px;
+  justify-content: space-between;
+  gap: 20px;
+}
+.copyright1 {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+.background-icon56 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  margin: 0 !important;
+  right: 40px;
+  bottom: 83px;
+  border-radius: 25px;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.footer1 {
+  align-self: stretch;
+  background-color: #ccf0e9;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 30px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 40px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+  margin-top: -420px;
+  text-align: left;
+  font-size: 12px;
+  color: rgba(0, 180, 144, 0.8);
+  font-family: Poppins;
+}
+@media screen and (max-width: 750px) {
+  .copyright-info {
+    flex-wrap: wrap;
+  }
+  .footer1 {
+    gap: 20px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .payment-logos1 {
+    flex-wrap: wrap;
+  }
+}

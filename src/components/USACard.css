@@ -1,0 +1,457 @@
+.overlayshadow95 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  box-shadow: 0 4px 15px rgba(41, 37, 44, 0.1);
+  border-radius: 16px;
+  background-color: transparent;
+}
+.background-icon51 {
+  width: 264px;
+  height: 264px;
+  position: relative;
+  border-radius: 16px 16px 0 0;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  z-index: 1;
+}
+.rectangle32,
+.rectangle33,
+.rectangle34,
+.rectangle35,
+.rectangle36,
+.rectangle37 {
+  width: 88px;
+  height: 88px;
+  position: relative;
+  display: none;
+}
+.b5e0681fcd324b9882f20ddfb770de-icon4 {
+  width: 60px;
+  height: 60px;
+  position: relative;
+  border-radius: 16px 16px 0 0;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  display: none;
+}
+.rectangle38,
+.rectangle39 {
+  width: 88px;
+  height: 88px;
+  position: relative;
+  display: none;
+}
+.usa1 {
+  position: relative;
+  line-height: 23px;
+  display: inline-block;
+  min-width: 28px;
+}
+.from-390-usd2,
+.heading-350 {
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.heading-350 {
+  align-self: stretch;
+  height: 22.4px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.from-390-usd2 {
+  position: relative;
+  line-height: 21px;
+  font-weight: 600;
+  color: #00b490;
+  display: inline-block;
+  min-width: 111px;
+}
+.u-s-a-card-destination,
+.u-s-a-card-destination-content {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.u-s-a-card-destination {
+  flex: 1;
+  flex-direction: column;
+  gap: 5.5px;
+}
+.u-s-a-card-destination-content {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 20px;
+}
+.link6 {
+  flex: 1;
+  flex-direction: column;
+  padding: 0 0 20.5px;
+  gap: 20px;
+  cursor: pointer;
+  z-index: 1;
+}
+.background72,
+.link6,
+.u-s-a-card-content2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.background72 {
+  align-self: stretch;
+  border-radius: 16px;
+  background-color: #fffcfa;
+  flex-direction: row;
+  position: relative;
+}
+.u-s-a-card-content2 {
+  flex: 1;
+  flex-direction: column;
+  gap: 20px;
+}
+.overlayshadow96 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  box-shadow: 0 4px 15px rgba(41, 37, 44, 0.1);
+  border-radius: 16px;
+  background-color: transparent;
+}
+.background-icon52 {
+  width: 264px;
+  height: 264px;
+  position: relative;
+  border-radius: 16px 16px 0 0;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  z-index: 1;
+}
+.japan-esim1 {
+  position: relative;
+  line-height: 22.4px;
+  display: inline-block;
+  min-width: 81.2px;
+}
+.from-290-usd9,
+.heading-351 {
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  z-index: 1;
+}
+.heading-351 {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 0.2px;
+}
+.from-290-usd9 {
+  position: relative;
+  line-height: 21px;
+  font-weight: 600;
+  color: #00b490;
+  display: inline-block;
+  min-width: 111px;
+}
+.asia-card-items,
+.asia-cards,
+.background73 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.asia-card-items {
+  flex: 1;
+  flex-direction: column;
+  gap: 5.5px;
+}
+.asia-cards,
+.background73 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 20px;
+}
+.background73 {
+  border-radius: 16px;
+  background-color: #fffcfa;
+  flex-direction: column;
+  padding: 0 0 20.5px;
+  position: relative;
+  gap: 20px;
+}
+.overlayshadow97 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  box-shadow: 0 4px 15px rgba(41, 37, 44, 0.1);
+  border-radius: 16px;
+  background-color: transparent;
+}
+.background-icon53 {
+  width: 264px;
+  height: 264px;
+  position: relative;
+  border-radius: 16px 16px 0 0;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  z-index: 1;
+}
+.thailand {
+  position: relative;
+  line-height: 22.4px;
+  display: inline-block;
+  min-width: 61.2px;
+}
+.heading-352 {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 0.2px;
+  z-index: 1;
+}
+.from-290-usd10 {
+  position: relative;
+  line-height: 21px;
+  font-weight: 600;
+  color: #00b490;
+  display: inline-block;
+  min-width: 111px;
+  z-index: 1;
+}
+.heading-3-parent31 {
+  flex: 1;
+  flex-direction: column;
+  gap: 5.5px;
+}
+.background-inner33,
+.background74,
+.heading-3-parent31,
+.u-s-a-card-content3 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.background-inner33 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 20px;
+}
+.background74,
+.u-s-a-card-content3 {
+  flex-direction: column;
+  gap: 20px;
+}
+.background74 {
+  align-self: stretch;
+  border-radius: 16px;
+  background-color: #fffcfa;
+  padding: 0 0 20.5px;
+  position: relative;
+}
+.u-s-a-card-content3 {
+  flex: 1;
+}
+.overlayshadow98 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  box-shadow: 0 4px 15px rgba(41, 37, 44, 0.1);
+  border-radius: 16px;
+  background-color: transparent;
+}
+.background-icon54 {
+  width: 264px;
+  height: 264px;
+  position: relative;
+  border-radius: 16px 16px 0 0;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  z-index: 1;
+}
+.vietnam-esim {
+  position: relative;
+  line-height: 22.4px;
+  display: inline-block;
+  min-width: 96px;
+}
+.from-290-usd11,
+.heading-353 {
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  z-index: 1;
+}
+.heading-353 {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 0.2px;
+}
+.from-290-usd11 {
+  position: relative;
+  line-height: 21px;
+  font-weight: 600;
+  color: #00b490;
+  display: inline-block;
+  min-width: 111px;
+}
+.background-inner34,
+.background75,
+.heading-3-parent32 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.heading-3-parent32 {
+  flex: 1;
+  flex-direction: column;
+  gap: 5.5px;
+}
+.background-inner34,
+.background75 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 20px;
+}
+.background75 {
+  border-radius: 16px;
+  background-color: #fffcfa;
+  flex-direction: column;
+  padding: 0 0 20.5px;
+  position: relative;
+  gap: 20px;
+}
+.overlayshadow99 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  box-shadow: 0 4px 15px rgba(41, 37, 44, 0.1);
+  border-radius: 16px;
+  background-color: transparent;
+}
+.background-icon55 {
+  width: 264px;
+  height: 264px;
+  position: relative;
+  border-radius: 16px 16px 0 0;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  z-index: 1;
+}
+.australia {
+  position: relative;
+  line-height: 22.4px;
+  display: inline-block;
+  min-width: 62.2px;
+}
+.heading-354 {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 0.2px;
+  z-index: 1;
+}
+.from-290-usd12 {
+  position: relative;
+  line-height: 21px;
+  font-weight: 600;
+  color: #00b490;
+  display: inline-block;
+  min-width: 111px;
+  z-index: 1;
+}
+.background-inner35,
+.heading-3-parent33 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.heading-3-parent33 {
+  flex: 1;
+  flex-direction: column;
+  gap: 5.5px;
+}
+.background-inner35 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 20px;
+}
+.background76 {
+  align-self: stretch;
+  border-radius: 16px;
+  background-color: #fffcfa;
+  flex-direction: column;
+  padding: 0 0 20.5px;
+  position: relative;
+}
+.background76,
+.u-s-a-card,
+.u-s-a-card-content4 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px;
+}
+.u-s-a-card-content4 {
+  flex: 1;
+  flex-direction: column;
+}
+.u-s-a-card {
+  height: 623.3px;
+  width: 1400px;
+  flex-direction: row;
+  padding: 0;
+  box-sizing: border-box;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+  text-align: left;
+  font-size: 14px;
+  color: #29252c;
+  font-family: Poppins;
+}
